@@ -1,4 +1,4 @@
-# Basic DeFi ORC
+# Basic DeFi OTC
 
 ## Overview
 
